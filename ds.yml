@@ -55,7 +55,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: dinu7031/multitier1:latest
+        image: dinu7031/multitier2:latest
         ports:
         - containerPort: 8080
         env:
